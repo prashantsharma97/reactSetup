@@ -48,6 +48,11 @@ export default {
    plugins: [],
  }
 
+### Install MUI and MUI Icons
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+
+
 
 1. **Install dependencies**: Tailwind CSS and PostCSS related dependencies are installed first.
 2. **Generate configuration files**: Tailwind’s `tailwind.config.js` is generated for customizing the configuration.
