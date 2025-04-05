@@ -20,7 +20,7 @@ This project is a simple React.js CRUD application with integrated Node.js API f
 ## Tech Stack
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
-- **Database:** You can mention the database you're using (e.g., MongoDB, MySQL, etc.)
+- **Database:** MySQL
 
 ## Setup Instructions
 
