@@ -26,7 +26,7 @@ This project is a simple React.js CRUD application with integrated Node.js API f
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/react-node-crud-app.git
+git clone https://github.com/prashantsharma97/reactSetup.git
 
 
 
